@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36069
     wikipedia: http://en.wikipedia.org/wiki/Henry_Alford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32830#The-State-of-the-Blessed-Dead
 gutenberg_issued: '2010-06-16'
 gutenberg_type: Text
 identifiers:
